@@ -1,0 +1,15 @@
+.card {
+  margin-top: 2rem;
+}
+
+.bearish {
+  color: #dc3545;
+}
+
+.neutral {
+  color: #ffc107;
+}
+
+.bullish {
+  color: #28a745;
+}
